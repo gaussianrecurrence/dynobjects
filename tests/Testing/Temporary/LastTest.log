@@ -1,0 +1,63 @@
+Start testing: Apr 11 21:13 CEST
+----------------------------------------------------------
+1/2 Testing: TestBasic
+1/2 Test: TestBasic
+Command: "/media/mario/DATA/Programming/Cpp/dynobjects/tests/dynobjects/test_objects" "TestBasic"
+Directory: /media/mario/DATA/Programming/Cpp/dynobjects/tests/dynobjects
+"TestBasic" start time: Apr 11 21:13 CEST
+Output:
+----------------------------------------------------------
+TestBasic::testComparatorMethod
+ : OK
+TestBasic::testDereferenceMethod
+ : OK
+TestBasic::testEncapsulatedComparatorMethod
+ : OK
+TestGeneric::testDictionaryMethod
+ : OK
+TestGeneric::testComparatorMethod
+ : OK
+TestGeneric::testDereferenceMethod
+ : OK
+TestGeneric::testEncapsulatedComparatorMethod
+ : OK
+OK (7)
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestBasic" end time: Apr 11 21:13 CEST
+"TestBasic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: TestGeneric
+2/2 Test: TestGeneric
+Command: "/media/mario/DATA/Programming/Cpp/dynobjects/tests/dynobjects/test_objects" "TestGeneric"
+Directory: /media/mario/DATA/Programming/Cpp/dynobjects/tests/dynobjects
+"TestGeneric" start time: Apr 11 21:13 CEST
+Output:
+----------------------------------------------------------
+TestBasic::testComparatorMethod
+ : OK
+TestBasic::testDereferenceMethod
+ : OK
+TestBasic::testEncapsulatedComparatorMethod
+ : OK
+TestGeneric::testDictionaryMethod
+ : OK
+TestGeneric::testComparatorMethod
+ : OK
+TestGeneric::testDereferenceMethod
+ : OK
+TestGeneric::testEncapsulatedComparatorMethod
+ : OK
+OK (7)
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestGeneric" end time: Apr 11 21:13 CEST
+"TestGeneric" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 11 21:13 CEST

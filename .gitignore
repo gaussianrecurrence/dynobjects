@@ -1,0 +1,18 @@
+# Compilation
+*.a
+/build/
+Makefile
+
+
+# NetBeans
+/dist/
+/nbproject/
+
+# IntelliJ
+/.idea/
+
+# Cmake cache
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
